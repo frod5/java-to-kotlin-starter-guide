@@ -1,5 +1,7 @@
 package lec01
 
+import com.lannstark.lec01.Person
+
 fun main() {
 
     var number1 = 10L // java -> long number1 = 10; (타입 추론)
