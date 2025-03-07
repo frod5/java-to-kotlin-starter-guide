@@ -1,4 +1,4 @@
-package lect07
+package lec07
 
 fun parseIntOrThrow(str: String): Int {
     try {

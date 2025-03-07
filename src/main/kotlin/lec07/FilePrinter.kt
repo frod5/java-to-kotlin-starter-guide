@@ -1,4 +1,4 @@
-package lect07
+package lec07
 
 import java.io.BufferedReader
 import java.io.File
