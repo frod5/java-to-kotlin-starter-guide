@@ -1,4 +1,6 @@
-package lec10.abstract1
+package lec10
+
+import lec10.abstract1.Animal
 
 class Cat(species: String) : Animal(species, 4) {
 

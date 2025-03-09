@@ -34,9 +34,9 @@ class Person(val name: String, var age: Int) {
     //부생성자 보단 default parameter를 사용하자
     //객체 변환은 정적 팩토리 메소드를 사용하자.
 
-    fun isAdult(): Boolean {
-        return age > 19
-    }
+//    fun isAdult(): Boolean {
+//        return age > 19
+//    }
 
     //custom getter -> property처럼 사용
     val isAdult: Boolean
